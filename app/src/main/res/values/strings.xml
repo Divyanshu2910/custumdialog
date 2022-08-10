@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">custum dialog</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_address">enter address</string>
+    <string name="others">others</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+</resources>
